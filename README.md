@@ -22,11 +22,11 @@ These are some of my old projects and reports for the later part of my universit
     - [Source-Code for MS Visual C++](https://github.com/Hvass-Labs/Old-Schoolwork/raw/master/bioinf_neighbour_src.zip)
     - [Test-Program for MS-Windows](https://github.com/Hvass-Labs/Old-Schoolwork/raw/master/bioinf_neighbour_exe.zip)
   - Protein Folding
-    - [Report](bioinf_folding.pdf)
+    - [Report](https://github.com/Hvass-Labs/Old-Schoolwork/raw/master/bioinf_folding.pdf)
     - [Source-Code for MS Visual C++](https://github.com/Hvass-Labs/Old-Schoolwork/raw/master/bioinf_folding_src.zip)
     - [Test-Program for MS-Windows](https://github.com/Hvass-Labs/Old-Schoolwork/raw/master/bioinf_folding_exe.zip)
   - Tree Distance
-    - [Report](bioinf_distance.pdf)
+    - [Report](https://github.com/Hvass-Labs/Old-Schoolwork/raw/master/bioinf_distance.pdf)
     - [Source-Code for MS Visual C++](https://github.com/Hvass-Labs/Old-Schoolwork/raw/master/bioinf_distance_src.zip)
     - [Test-Program for MS-Windows](https://github.com/Hvass-Labs/Old-Schoolwork/raw/master/bioinf_distance_exe.zip)
 
